@@ -1,6 +1,5 @@
 //
 //  main.cpp
-//  lab17
 //
 //  Created by Fahreta Hublic on 12/07/21.
 //
