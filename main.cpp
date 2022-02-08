@@ -1,7 +1,7 @@
 //
 //  main.cpp
 //
-//  Created by Fahreta Hublic on 12/07/21.
+//  Created by Reta Hublic on 12/07/21.
 //
 
 #include <iostream>
